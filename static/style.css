@@ -1,0 +1,9 @@
+
+/* Custom styles for Chat Vibes (override or extend Bootstrap if needed) */
+
+/* Example: Add spacing to the chat input on mobile */
+@media (max-width: 576px) {
+    footer .form-control {
+        font-size: 1rem;
+    }
+}
