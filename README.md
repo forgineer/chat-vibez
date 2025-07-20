@@ -49,3 +49,7 @@ This project is being developed using Visual Studio Code as the IDE. GitHub Copi
 At this time, outside contributions are not being accepted. In alignment with the "Vibe Coding" goals, this project is intended to have no contributors beyond the AI tools used by the developer. This approach is meant to preserve the experimental nature of the repository and to document what can be achieved when development is guided primarily by AI assistance.
 
 However, others are more than welcome to clone this repository and experiment with it for their own learning or projects.
+
+## Project Journal
+
+To read about the journey, progress, and reflections throughout the development of Chat Vibez, see the [project journal](journal/README.md).
